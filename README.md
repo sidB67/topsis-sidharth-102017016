@@ -1,11 +1,10 @@
-## SaralGyaan Square
-### It takes an integer as an input and prints it square.
+## Topsis-Sidharth-102017016
+### It calculates topsis for a given data in csv file.
 
 ### Installation
-## pip install saral-square
+## pip install topsis-sidharth-102017016
 
-### How to use it?
-## Open terminal and type square and then input the integer
+
 
 ## License
 ### © 2023 Sidharth Bahl
