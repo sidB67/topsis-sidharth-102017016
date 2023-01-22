@@ -5,7 +5,7 @@
 ## pip install topsis-sidharth-102017016
 
 ## How to use
-### Type in Command Line : topsis "InputFil.csv" "Weights_Separated_By_Commas" "Impacts_Separated_By_Commas" "OutputFile.csv"
+### Sample command : topsis input.csv "1,1,1,1,1" "+,-,+,-,+" output.csv
 
 
 ## License
