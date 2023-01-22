@@ -14,7 +14,7 @@ setup(
     description="It finds topsis for the given data in csv file",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/uditvashisht/saral-square",
+    url="https://github.com/sidB67/topsis-sidharth-102017016.git",
     author="Sidharth Bahl",
     author_email="bahlsidharth@gmail.com",
     license="MIT",
@@ -24,12 +24,12 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["topsis-sidharth"],
+    packages=["topsis"],
     include_package_data=True,
     install_requires=["pandas", "numpy"],
     entry_points={
         "console_scripts": [
-            "topsis-sidharth=topsis-sidharth.__main__:main",
+            "topsis=topsis.__main__:main",
         ]
     },
 )
